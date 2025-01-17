@@ -37,7 +37,7 @@ let track_list = [
     name: "Admirin'n You",
     artist: "Karan Aujla",
     image: "https://i.ytimg.com/vi/pDdoOXxWFUg/maxresdefault.jpg",
-    path: "audios\Admirin You - Karan Aujla Song.mp3",
+    path: "Admirin You - Karan Aujla Song.mp3",
   },
   {
     name: "Brown Munde",
